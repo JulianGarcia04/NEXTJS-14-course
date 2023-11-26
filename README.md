@@ -12,6 +12,8 @@ With this course i learned the new features from NextJS 13 and 14 with midudev c
 
 https://www.youtube.com/watch?v=m6KESRxAdK4
 
+https://nextjs.org/learn
+
 ## New Features
 
 - App router
